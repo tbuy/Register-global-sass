@@ -1,4 +1,6 @@
-#### 通过 sass-resources-loader 全局注册变量
+### 通过 sass-resources-loader 全局注册sass变量
+
+##### 安装
 
 ```
 npm install sass-resources-loader
